@@ -1,9 +1,9 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.0",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBkQUI1VzE2NHc2Zms1MGR2OEhNL0s2RGRZeUV0SWNTcUxiY1E5Y3hFc2R0NTJRc3d3L2tndFFZMUZXSWd6VXkyeDZXQko1b2k3bUIrWUFBcXBQQnV5VVN4K3gzQ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNjgwMDM4CWZpbGU6dG9vbGJveF8wLjIuMF94NjRfZW4tVVMubXNpLnppcAp3YWdlR3ZVTktNQlFVUGlkanNtd3J4Y2YxQVJRdEx3bUhGUFVKdkJNTDBhdFFPSWRuRkx5djR0SWFaS2xYaTlObXpWR0ZwVXErcnZBMlU4NTJjWWtDQT09Cg==",
-            "url": "https://github.com/smilingthrone13/toolboxupdate/releases/download/0.2.0/toolbox_0.2.0_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY0c1Y1duY3VRS2VkblhwNFBFV3l2UU95ZHlIclJnbUtIcmEveHN4K3l3Q1krSmpPbjE2NXpkRzhhUS9TNWNJMmczTVNtYlJLL3Y4dEJOczVZZ2ZLZWRmNmNLQTRaYlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyMzcxMDYzCWZpbGU6VG9vbGJveF8wLjEuMF94NjRfZW4tVVMubXNpLnppcApTQXBXYlhpYUNkQXo4WHVqSWpvdUhvYnBOMjhVR1FSWmlqYWdscEFRNDlWMGJoekExYnlmRzErNm9YOVVtRnRUd0ZEdTRqeGpXd0I0c2dzWnpkUXZCUT09Cg==",
+            "url": "https://github.com/smilingthrone13/toolboxupdate/releases/download/0.1.0/Toolbox_0.1.0_x64_en-US.msi.zip"
         }
     }
 }
